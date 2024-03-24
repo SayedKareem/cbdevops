@@ -20,12 +20,6 @@
         
     </properties>
 
-    mvn clean verify sonar:sonar \
-  -Dsonar.projectKey=cbdevops \
-  -Dsonar.projectName='cbdevops' \
-  -Dsonar.host.url=http://35.175.252.202:9000 \
-  -Dsonar.token=sqp_c90ba4bb444f2bfbe6122afb8393899f1081a1fb
-
     <!--
     <distributionManagement>
     <snapshotRepository>
