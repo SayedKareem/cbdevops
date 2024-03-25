@@ -14,13 +14,13 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
 
-        <sonar.host.url>http://54.162.37.218:9000</sonar.host.url>
-        <sonar.organization>cbscancode</sonar.organization>
-        <sonar.projectKey>cbscancode</sonar.projectKey>
-        <sonar.login>sqp_8f728ae720317792df1d439420632714dc996e44</sonar.login>
+        <sonar.host.url>http://54.80.185.67:9000</sonar.host.url>
+        <sonar.organization>cbdevops</sonar.organization>
+        <sonar.projectKey>cbdevops</sonar.projectKey>
+        <sonar.login>sqp_f804a47c6df1c84259e24fb6309f39e7bc679b40</sonar.login>
 
     </properties>
-
+  
     <!--
     <distributionManagement>
     <snapshotRepository>
