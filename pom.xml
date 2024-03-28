@@ -14,10 +14,10 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
 
-        <sonar.host.url>http://54.80.185.67:9000</sonar.host.url>
+        <sonar.host.url>http://54.144.8.213:9000</sonar.host.url>
         <sonar.organization>cbdevops</sonar.organization>
         <sonar.projectKey>cbdevops</sonar.projectKey>
-        <sonar.login>sqp_f804a47c6df1c84259e24fb6309f39e7bc679b40</sonar.login>
+        <sonar.login>sqp_e8f8937258394883c530dac5b6c3b72abce2609f</sonar.login>
 
     </properties>
   
